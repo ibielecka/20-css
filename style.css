@@ -1,0 +1,47 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+#pierwszy {
+    background-color: black;
+    color: aliceblue;
+}
+h4 {
+    background-color: blue;
+    color: azure;
+}
+
+p {
+    background-color: aqua;
+    color: black;
+}
+
+li:first-child {
+    background-color: black;
+    color: aliceblue;
+}
+
+li:nth-child(2) {
+    background-color: crimson;
+    color: cornsilk;
+}
+
+li:nth-child(3) {
+    background-color: cornflowerblue;
+    color:darkblue;
+}
+
+li:nth-child(4) {
+    background-color: darkgreen;
+    color: darkorange;
+}
+
+li:nth-child(5) {
+    background-color: blueviolet;
+    color: darkmagenta;
+}
